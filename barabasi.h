@@ -1,0 +1,1 @@
+void barabasi(int n, int m);
